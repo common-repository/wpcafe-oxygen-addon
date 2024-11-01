@@ -1,0 +1,554 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: WPCafe Oxygen Addon\n"
+"POT-Creation-Date: 2023-12-12 10:57+0600\n"
+"PO-Revision-Date: 2023-12-12 10:57+0600\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"X-Generator: Poedit 3.2.2\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: wpcafe-oxygen-addon.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.min.js\n"
+
+#: bootstrap.php:96
+msgid "WPCafe"
+msgstr ""
+
+#: bootstrap.php:103
+msgid "Food Menu"
+msgstr ""
+
+#: bootstrap.php:108
+msgid "Reservation"
+msgstr ""
+
+#: bootstrap.php:149
+msgid ""
+"In order to use WPCafe Oxygen Addon, you must have installed and activated "
+"WPCafe Plugin"
+msgstr ""
+
+#: bootstrap.php:155
+msgid ""
+"In order to use WPCafe Oxygen Addon, you must have installed and activated "
+"Oxygen Builder Plugin"
+msgstr ""
+
+#: elements/business_hour_pro.php:39
+msgid "Business Hours"
+msgstr ""
+
+#: elements/business_hour_pro.php:43
+msgid "All Days Schedule"
+msgstr ""
+
+#: elements/business_hour_pro.php:50 elements/category_list_pro.php:100
+#: elements/food_location_filter.php:58 elements/food_menu_list.php:159
+#: elements/food_menu_list_pro.php:139 elements/food_menu_loadmore.php:139
+#: elements/food_menu_tab.php:160 elements/food_menu_tab_pro.php:139
+#: elements/menu_filter_with_location.php:175
+#: elements/menu_location_list_pro.php:99 elements/menu_slider_pro.php:185
+#: elements/menu_tab_with_slider.php:191 elements/reservation_form.php:65
+#: elements/reservation_form_pro.php:53 elements/reservation_with_food.php:165
+#: elements/reservation_with_food_tab_view.php:165
+msgid "Style Sections"
+msgstr ""
+
+#: elements/business_hour_pro.php:53
+msgid "Hour Style"
+msgstr ""
+
+#: elements/business_hour_pro.php:82 elements/category_list_pro.php:136
+#: elements/food_location_filter.php:62 elements/food_menu_list_pro.php:189
+#: elements/food_menu_list_pro.php:324 elements/food_menu_list_pro.php:344
+#: elements/food_menu_loadmore.php:189 elements/food_menu_loadmore.php:324
+#: elements/food_menu_loadmore.php:368 elements/food_menu_loadmore.php:388
+#: elements/food_menu_tab_pro.php:189 elements/food_menu_tab_pro.php:324
+#: elements/food_menu_tab_pro.php:344 elements/menu_location_list_pro.php:135
+#: elements/menu_slider_pro.php:224 elements/menu_slider_pro.php:292
+#: elements/menu_slider_pro.php:361 elements/menu_slider_pro.php:381
+#: elements/menu_tab_with_slider.php:260 elements/menu_tab_with_slider.php:315
+#: elements/menu_tab_with_slider.php:384 elements/menu_tab_with_slider.php:453
+#: elements/menu_tab_with_slider.php:473 elements/reservation_form.php:121
+msgid "Padding"
+msgstr ""
+
+#: elements/category_list_pro.php:46
+msgid "Category Query"
+msgstr ""
+
+#: elements/category_list_pro.php:50 elements/food_menu_list.php:57
+#: elements/food_menu_list_pro.php:53 elements/food_menu_loadmore.php:53
+#: elements/food_menu_tab.php:58 elements/food_menu_tab_pro.php:53
+#: elements/menu_filter_with_location.php:61 elements/menu_slider_pro.php:58
+#: elements/menu_tab_with_slider.php:59 elements/reservation_with_food.php:55
+#: elements/reservation_with_food_tab_view.php:55
+msgid "Include Category IDs"
+msgstr ""
+
+#: elements/category_list_pro.php:57 elements/food_menu_list.php:64
+#: elements/food_menu_list_pro.php:60 elements/food_menu_loadmore.php:60
+#: elements/food_menu_tab.php:65 elements/food_menu_tab_pro.php:60
+#: elements/menu_filter_with_location.php:68
+#: elements/menu_location_list_pro.php:56 elements/menu_slider_pro.php:65
+#: elements/menu_tab_with_slider.php:66 elements/reservation_form.php:47
+#: elements/reservation_form_pro.php:44 elements/reservation_with_food.php:70
+#: elements/reservation_with_food_tab_view.php:70
+msgid "Style "
+msgstr ""
+
+#: elements/category_list_pro.php:66
+msgid "Category Limit"
+msgstr ""
+
+#: elements/category_list_pro.php:74 elements/menu_location_list_pro.php:73
+msgid "Hide Empty?"
+msgstr ""
+
+#: elements/category_list_pro.php:83 elements/menu_location_list_pro.php:82
+msgid "Show Count"
+msgstr ""
+
+#: elements/category_list_pro.php:92 elements/menu_location_list_pro.php:91
+msgid "Grid Column"
+msgstr ""
+
+#: elements/category_list_pro.php:103 elements/food_menu_list.php:162
+#: elements/food_menu_list_pro.php:193 elements/food_menu_loadmore.php:193
+#: elements/food_menu_tab.php:163 elements/food_menu_tab_pro.php:193
+#: elements/menu_filter_with_location.php:178
+#: elements/menu_location_list_pro.php:102 elements/menu_slider_pro.php:228
+#: elements/menu_tab_with_slider.php:319 elements/reservation_with_food.php:168
+#: elements/reservation_with_food_tab_view.php:168
+msgid "Title Style"
+msgstr ""
+
+#: elements/category_list_pro.php:140 elements/food_menu_list_pro.php:142
+#: elements/food_menu_loadmore.php:142 elements/food_menu_tab_pro.php:142
+#: elements/menu_location_list_pro.php:139
+#: elements/menu_tab_with_slider.php:268
+msgid "Thumbnail Style"
+msgstr ""
+
+#: elements/category_list_pro.php:145 elements/food_menu_list_pro.php:148
+#: elements/food_menu_loadmore.php:148 elements/food_menu_tab_pro.php:148
+#: elements/menu_location_list_pro.php:144
+#: elements/menu_tab_with_slider.php:274
+msgid "Thumbnail Width"
+msgstr ""
+
+#: elements/category_list_pro.php:150 elements/food_menu_list_pro.php:153
+#: elements/food_menu_loadmore.php:153 elements/food_menu_tab_pro.php:153
+#: elements/menu_location_list_pro.php:149
+#: elements/menu_tab_with_slider.php:279
+msgid "Thumbnail Height"
+msgstr ""
+
+#: elements/category_list_pro.php:159 elements/food_menu_list_pro.php:328
+#: elements/food_menu_loadmore.php:372 elements/food_menu_tab_pro.php:328
+#: elements/menu_location_list_pro.php:158 elements/menu_slider_pro.php:365
+#: elements/menu_tab_with_slider.php:457 elements/reservation_form_pro.php:298
+msgid "Advanced Style"
+msgstr ""
+
+#: elements/category_list_pro.php:166 elements/menu_location_list_pro.php:163
+msgid "Box BG Color"
+msgstr ""
+
+#: elements/category_list_pro.php:172 elements/menu_location_list_pro.php:169
+msgid "Box Hover BG Color"
+msgstr ""
+
+#: elements/category_list_pro.php:178 elements/food_menu_list_pro.php:158
+#: elements/food_menu_loadmore.php:158 elements/food_menu_tab_pro.php:158
+#: elements/menu_location_list_pro.php:175
+#: elements/menu_tab_with_slider.php:284
+msgid "Border Radius"
+msgstr ""
+
+#: elements/category_list_pro.php:185 elements/menu_location_list_pro.php:182
+msgid "Box Margin"
+msgstr ""
+
+#: elements/food_location_filter.php:45 elements/menu_location_list_pro.php:45
+msgid "Location Query"
+msgstr ""
+
+#: elements/food_location_filter.php:50
+msgid "Alignment "
+msgstr ""
+
+#: elements/food_menu_list.php:53 elements/food_menu_list_pro.php:49
+#: elements/food_menu_loadmore.php:49 elements/food_menu_tab.php:54
+#: elements/food_menu_tab_pro.php:49 elements/menu_filter_with_location.php:57
+#: elements/menu_slider_pro.php:54 elements/menu_tab_with_slider.php:55
+#: elements/reservation_with_food.php:51
+#: elements/reservation_with_food_tab_view.php:51
+msgid "Product Query"
+msgstr ""
+
+#: elements/food_menu_list.php:73 elements/food_menu_list_pro.php:68
+#: elements/food_menu_loadmore.php:68 elements/food_menu_tab.php:74
+#: elements/food_menu_tab_pro.php:68 elements/menu_filter_with_location.php:77
+#: elements/menu_slider_pro.php:73 elements/menu_tab_with_slider.php:74
+#: elements/reservation_with_food.php:79
+#: elements/reservation_with_food_tab_view.php:79
+msgid "Order"
+msgstr ""
+
+#: elements/food_menu_list.php:84 elements/food_menu_list_pro.php:76
+#: elements/food_menu_loadmore.php:76 elements/food_menu_tab.php:85
+#: elements/food_menu_tab_pro.php:76 elements/menu_filter_with_location.php:88
+#: elements/menu_tab_with_slider.php:82 elements/reservation_with_food.php:90
+#: elements/reservation_with_food_tab_view.php:90
+msgid "Product Limit"
+msgstr ""
+
+#: elements/food_menu_list.php:91 elements/food_menu_list_pro.php:83
+#: elements/food_menu_loadmore.php:83 elements/food_menu_tab.php:92
+#: elements/food_menu_tab_pro.php:83 elements/menu_filter_with_location.php:95
+#: elements/menu_slider_pro.php:82 elements/menu_tab_with_slider.php:89
+#: elements/reservation_with_food.php:97
+#: elements/reservation_with_food_tab_view.php:97
+msgid "Show Description"
+msgstr ""
+
+#: elements/food_menu_list.php:102 elements/food_menu_list_pro.php:91
+#: elements/food_menu_loadmore.php:91 elements/food_menu_tab.php:103
+#: elements/food_menu_tab_pro.php:91 elements/menu_filter_with_location.php:106
+#: elements/menu_slider_pro.php:90 elements/menu_tab_with_slider.php:97
+#: elements/reservation_with_food.php:108
+#: elements/reservation_with_food_tab_view.php:108
+msgid "Desc Limit"
+msgstr ""
+
+#: elements/food_menu_list.php:111 elements/food_menu_list_pro.php:99
+#: elements/food_menu_loadmore.php:99 elements/food_menu_tab.php:112
+#: elements/food_menu_tab_pro.php:99 elements/menu_filter_with_location.php:115
+#: elements/menu_slider_pro.php:112 elements/menu_tab_with_slider.php:119
+#: elements/reservation_with_food.php:117
+#: elements/reservation_with_food_tab_view.php:117
+msgid "Title Link enable"
+msgstr ""
+
+#: elements/food_menu_list.php:120 elements/food_menu_list_pro.php:107
+#: elements/food_menu_loadmore.php:107 elements/food_menu_tab.php:121
+#: elements/food_menu_tab_pro.php:107
+#: elements/menu_filter_with_location.php:124 elements/menu_slider_pro.php:152
+#: elements/menu_tab_with_slider.php:159 elements/reservation_with_food.php:126
+#: elements/reservation_with_food_tab_view.php:126
+msgid "Show Thumbnail"
+msgstr ""
+
+#: elements/food_menu_list.php:129 elements/food_menu_list_pro.php:115
+#: elements/food_menu_loadmore.php:115 elements/food_menu_tab.php:130
+#: elements/food_menu_tab_pro.php:115
+#: elements/menu_filter_with_location.php:145 elements/menu_slider_pro.php:160
+#: elements/menu_tab_with_slider.php:167 elements/reservation_with_food.php:135
+#: elements/reservation_with_food_tab_view.php:135
+msgid "Show Cart Button"
+msgstr ""
+
+#: elements/food_menu_list.php:139 elements/food_menu_tab.php:140
+#: elements/menu_filter_with_location.php:155
+#: elements/reservation_with_food.php:145
+#: elements/reservation_with_food_tab_view.php:145
+msgid "Show Price"
+msgstr ""
+
+#: elements/food_menu_list.php:149 elements/food_menu_list_pro.php:132
+#: elements/food_menu_loadmore.php:132 elements/food_menu_tab.php:150
+#: elements/food_menu_tab_pro.php:132
+#: elements/menu_filter_with_location.php:165 elements/menu_slider_pro.php:177
+#: elements/menu_tab_with_slider.php:184 elements/reservation_with_food.php:155
+#: elements/reservation_with_food_tab_view.php:155
+msgid "Show Item Status"
+msgstr ""
+
+#: elements/food_menu_list.php:194 elements/food_menu_list_pro.php:233
+#: elements/food_menu_loadmore.php:233 elements/food_menu_tab.php:195
+#: elements/food_menu_tab_pro.php:233
+#: elements/menu_filter_with_location.php:210 elements/menu_slider_pro.php:267
+#: elements/menu_tab_with_slider.php:359 elements/reservation_with_food.php:200
+#: elements/reservation_with_food_tab_view.php:200
+msgid "Price Style"
+msgstr ""
+
+#: elements/food_menu_list.php:216 elements/food_menu_list_pro.php:165
+#: elements/food_menu_loadmore.php:165 elements/food_menu_tab.php:241
+#: elements/food_menu_tab_pro.php:165
+#: elements/menu_filter_with_location.php:257 elements/menu_slider_pro.php:200
+#: elements/menu_tab_with_slider.php:291 elements/reservation_with_food.php:222
+#: elements/reservation_with_food_tab_view.php:222
+msgid "Item Status Style"
+msgstr ""
+
+#: elements/food_menu_list.php:244 elements/food_menu_list_pro.php:259
+#: elements/food_menu_loadmore.php:259 elements/food_menu_tab.php:219
+#: elements/food_menu_tab_pro.php:259
+#: elements/menu_filter_with_location.php:234 elements/menu_slider_pro.php:296
+#: elements/menu_tab_with_slider.php:388 elements/reservation_with_food.php:250
+#: elements/reservation_with_food_tab_view.php:250
+msgid "Description Style"
+msgstr ""
+
+#: elements/food_menu_list.php:266 elements/food_menu_list_pro.php:287
+#: elements/food_menu_loadmore.php:287 elements/food_menu_tab.php:267
+#: elements/food_menu_tab_pro.php:287
+#: elements/menu_filter_with_location.php:283 elements/menu_slider_pro.php:324
+#: elements/menu_tab_with_slider.php:416 elements/reservation_with_food.php:272
+#: elements/reservation_with_food_tab_view.php:272
+msgid "Cart Button Style"
+msgstr ""
+
+#: elements/food_menu_list_pro.php:124 elements/food_menu_loadmore.php:124
+#: elements/food_menu_tab_pro.php:124 elements/menu_slider_pro.php:169
+#: elements/menu_tab_with_slider.php:176
+msgid "Delivery Time Show"
+msgstr ""
+
+#: elements/food_menu_list_pro.php:207 elements/food_menu_loadmore.php:207
+#: elements/food_menu_tab_pro.php:207 elements/menu_slider_pro.php:241
+#: elements/menu_tab_with_slider.php:333
+msgid "Title Hover Color"
+msgstr ""
+
+#: elements/food_menu_list_pro.php:229 elements/food_menu_loadmore.php:229
+#: elements/food_menu_tab_pro.php:229 elements/menu_slider_pro.php:263
+#: elements/menu_tab_with_slider.php:355
+msgid "Title Margin"
+msgstr ""
+
+#: elements/food_menu_list_pro.php:279 elements/food_menu_loadmore.php:279
+#: elements/food_menu_tab_pro.php:279 elements/menu_slider_pro.php:316
+#: elements/menu_tab_with_slider.php:408
+msgid "Description Padding"
+msgstr ""
+
+#: elements/food_menu_list_pro.php:283 elements/food_menu_loadmore.php:283
+#: elements/food_menu_tab_pro.php:283 elements/menu_slider_pro.php:320
+#: elements/menu_tab_with_slider.php:412
+msgid "Description Margin"
+msgstr ""
+
+#: elements/food_menu_list_pro.php:333 elements/food_menu_loadmore.php:377
+#: elements/food_menu_tab_pro.php:333 elements/menu_slider_pro.php:370
+#: elements/menu_tab_with_slider.php:462
+msgid "Border Color"
+msgstr ""
+
+#: elements/food_menu_list_pro.php:340 elements/food_menu_loadmore.php:384
+#: elements/food_menu_tab_pro.php:340 elements/menu_slider_pro.php:377
+#: elements/menu_tab_with_slider.php:264 elements/menu_tab_with_slider.php:469
+msgid "Margin"
+msgstr ""
+
+#: elements/food_menu_loadmore.php:328
+msgid "Loadmore Button Style"
+msgstr ""
+
+#: elements/food_menu_loadmore.php:342
+msgid "Hover BG Color"
+msgstr ""
+
+#: elements/menu_filter_with_location.php:134
+msgid "Show Delivery/prepering Time"
+msgstr ""
+
+#: elements/menu_location_list_pro.php:49
+msgid "Include Location IDs"
+msgstr ""
+
+#: elements/menu_location_list_pro.php:65
+msgid "Location Limit"
+msgstr ""
+
+#: elements/menu_slider_pro.php:98 elements/menu_tab_with_slider.php:105
+msgid "Menu Count"
+msgstr ""
+
+#: elements/menu_slider_pro.php:105 elements/menu_tab_with_slider.php:112
+msgid "slider Count"
+msgstr ""
+
+#: elements/menu_slider_pro.php:120 elements/menu_tab_with_slider.php:127
+msgid "Auto Play"
+msgstr ""
+
+#: elements/menu_slider_pro.php:128 elements/menu_tab_with_slider.php:135
+msgid "Slider Nav Show"
+msgstr ""
+
+#: elements/menu_slider_pro.php:136 elements/menu_tab_with_slider.php:143
+msgid "Slider Dot Show"
+msgstr ""
+
+#: elements/menu_slider_pro.php:144 elements/menu_tab_with_slider.php:151
+msgid "Nav Position"
+msgstr ""
+
+#: elements/menu_slider_pro.php:188 elements/menu_tab_with_slider.php:194
+msgid "Nav Menu Style"
+msgstr ""
+
+#: elements/menu_tab_with_slider.php:203
+msgid "Nav Style"
+msgstr ""
+
+#: elements/reservation_form.php:42 elements/reservation_form_pro.php:39
+msgid "General"
+msgstr ""
+
+#: elements/reservation_form.php:56
+msgid "Image URL "
+msgstr ""
+
+#: elements/reservation_form.php:68
+msgid "Input field"
+msgstr ""
+
+#: elements/reservation_form.php:76 elements/reservation_form_pro.php:157
+msgid "Label Color"
+msgstr ""
+
+#: elements/reservation_form.php:82 elements/reservation_form_pro.php:162
+msgid "Label Font Size"
+msgstr ""
+
+#: elements/reservation_form.php:96
+msgid "Input Placeholder Color"
+msgstr ""
+
+#: elements/reservation_form.php:125 elements/reservation_form_pro.php:193
+msgid "Button"
+msgstr ""
+
+#: elements/reservation_form.php:132 elements/reservation_form_pro.php:211
+msgid "Button Link Color"
+msgstr ""
+
+#: elements/reservation_form.php:137 elements/reservation_form_pro.php:85
+#: elements/reservation_form_pro.php:112 elements/reservation_form_pro.php:221
+#: elements/reservation_form_pro.php:247
+msgid "Button Color"
+msgstr ""
+
+#: elements/reservation_form.php:142
+msgid "Button Hover Color"
+msgstr ""
+
+#: elements/reservation_form.php:147 elements/reservation_form_pro.php:227
+msgid "Button Background color"
+msgstr ""
+
+#: elements/reservation_form.php:152 elements/reservation_form_pro.php:253
+msgid "Button BG Hover Color"
+msgstr ""
+
+#: elements/reservation_form.php:157 elements/reservation_form_pro.php:129
+#: elements/reservation_form_pro.php:264
+msgid "Button Padding"
+msgstr ""
+
+#: elements/reservation_form.php:162
+msgid "Calendar Style"
+msgstr ""
+
+#: elements/reservation_form.php:169 elements/reservation_form_pro.php:307
+msgid "Calender BG color"
+msgstr ""
+
+#: elements/reservation_form.php:178 elements/reservation_form_pro.php:312
+msgid "Box Padding"
+msgstr ""
+
+#: elements/reservation_form_pro.php:56
+msgid "Form Header"
+msgstr ""
+
+#: elements/reservation_form_pro.php:66
+msgid "Nav Box Background color"
+msgstr ""
+
+#: elements/reservation_form_pro.php:74 elements/reservation_form_pro.php:200
+msgid "Button Style"
+msgstr ""
+
+#: elements/reservation_form_pro.php:91 elements/reservation_form_pro.php:118
+msgid "Button BG Color"
+msgstr ""
+
+#: elements/reservation_form_pro.php:137
+msgid "Pagination BG Color"
+msgstr ""
+
+#: elements/reservation_form_pro.php:142
+msgid "Pagination Active BG Color"
+msgstr ""
+
+#: elements/reservation_form_pro.php:148
+msgid "Input Field"
+msgstr ""
+
+#: elements/reservation_form_pro.php:167
+msgid "Input Color"
+msgstr ""
+
+#: elements/reservation_form_pro.php:268
+msgid "Notification Message"
+msgstr ""
+
+#: elements/reservation_form_pro.php:277
+msgid "Error notification color"
+msgstr ""
+
+#: elements/reservation_form_pro.php:282
+msgid "Error notification BG color"
+msgstr ""
+
+#: elements/reservation_form_pro.php:287
+msgid "Success notification color"
+msgstr ""
+
+#: elements/reservation_form_pro.php:292
+msgid "Success notification BG color"
+msgstr ""
+
+#: elements/reservation_with_food.php:62
+#: elements/reservation_with_food_tab_view.php:62
+msgid "Form Style "
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "WPCafe Oxygen Addon"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "https://product.themewinter.com/wpcafe"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"Oxygen Builder Integration - WPCafe is a wordPress restaurant solution "
+"plugin to launch Restaurant Websites. You can design pages by Oxygen Builder "
+"and WPCafe."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Themewinter"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "http://themewinter.com/"
+msgstr ""
